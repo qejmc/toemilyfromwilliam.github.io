@@ -1,0 +1,30 @@
+.top{
+	text-align: center;
+}
+.center{
+	text-align: center;
+	font-family: 'Charm', cursive;
+	font-size: 40px;
+}
+.centerside{
+	padding-left: 40px;
+}
+.bottom{
+	text-align: center;
+}
+.button{
+	background-color: #ffffff;
+	border: 2px solid #ee1313;
+	padding: 10px 10px;
+	text-align: center;
+	font-family: 'Charm', cursive;
+	font-size: 40px;
+}
+.button:hover{
+	background-color: #0fa901;
+	border: 2px solid #ee1313;
+	padding: 10px 10px;
+	text-align: center;
+	font-family: 'Charm', cursive;
+	font-size: 40px;
+}
